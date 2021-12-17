@@ -6,7 +6,7 @@ Dit is de uitwerking van de wekelijkse community challenge deze week: Time for T
 Beetje janky, maar het werkt. Min of meer...
 
 
-`Time for Timetables!`
+`Time for Timetables!`<br>
 Elke week is er weer een nieuwe community challenge. Deze zijn voor elke student toegankelijk en hebben genoeg diepgang om jezelf lekker uit te dagen!
 
 Op de maandag zal de nieuwe opdracht live gezet worden op deze website. Mocht je er iets heel moois van willen maken kan je op maandagmiddag dus al aan de slag! Gebruik je tijd goed, want op vijdag om middernacht is de dealine.
